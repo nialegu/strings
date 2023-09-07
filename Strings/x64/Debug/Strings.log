@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Leonid\Projects\Strings\Strings\main.cpp(22,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Leonid\Projects\Strings\Strings\main.cpp(23,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Leonid\Projects\Strings\Strings\main.cpp(27,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Leonid\Projects\Strings\Strings\main.cpp(34,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Strings.vcxproj -> C:\Users\Leonid\Projects\Strings\x64\Debug\Strings.exe
